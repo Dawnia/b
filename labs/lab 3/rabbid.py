@@ -10,6 +10,7 @@ FPS = 30
 screen = pygame.display.set_mode((sizeX, sizeY))
 screen.fill((255, 255, 255))
 
+
 def eye(x, y):
     """
     draws an eye watching right
